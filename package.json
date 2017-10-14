@@ -1,0 +1,33 @@
+{
+  "name": "sharp11-jazz-parser",
+  "version": "1.0.0",
+  "description": "Module for parsing .jazz files into Sharp11 objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsrmath/sharp11-jazz-parser.git"
+  },
+  "keywords": [
+    "jazz",
+    "parser",
+    "sharp11",
+    "irb"
+  ],
+  "author": "Julian Rosenblum",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jsrmath/sharp11-jazz-parser/issues"
+  },
+  "homepage": "https://github.com/jsrmath/sharp11-jazz-parser#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "sharp11": "^2.0.1",
+    "string": "^3.3.3",
+    "underscore": "^1.8.3"
+  }
+}
